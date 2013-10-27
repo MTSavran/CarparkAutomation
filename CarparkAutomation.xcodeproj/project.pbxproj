@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		56D949B818045A9700948861 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 56D949B718045A9700948861 /* main.cpp */; };
+		56D949B818045A9700948861 /* carparkautomation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 56D949B718045A9700948861 /* carparkautomation.cpp */; };
 		56D949BA18045A9700948861 /* CarparkAutomation.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 56D949B918045A9700948861 /* CarparkAutomation.1 */; };
 /* End PBXBuildFile section */
 
@@ -26,7 +26,7 @@
 
 /* Begin PBXFileReference section */
 		56D949B418045A9700948861 /* CarparkAutomation */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CarparkAutomation; sourceTree = BUILT_PRODUCTS_DIR; };
-		56D949B718045A9700948861 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		56D949B718045A9700948861 /* carparkautomation.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = carparkautomation.cpp; sourceTree = "<group>"; };
 		56D949B918045A9700948861 /* CarparkAutomation.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = CarparkAutomation.1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -60,7 +60,7 @@
 		56D949B618045A9700948861 /* CarparkAutomation */ = {
 			isa = PBXGroup;
 			children = (
-				56D949B718045A9700948861 /* main.cpp */,
+				56D949B718045A9700948861 /* carparkautomation.cpp */,
 				56D949B918045A9700948861 /* CarparkAutomation.1 */,
 			);
 			path = CarparkAutomation;
@@ -117,7 +117,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				56D949B818045A9700948861 /* main.cpp in Sources */,
+				56D949B818045A9700948861 /* carparkautomation.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -225,6 +225,7 @@
 				56D949BF18045A9700948861 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
